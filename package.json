@@ -1,0 +1,21 @@
+{
+  "name": "react-custom-event",
+  "version": "1.0.0",
+  "description": "React hook for window CustomEvent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^16.7.0-alpha.0"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "window",
+    "customevent"
+  ],
+  "repository": "https://github.com/invertase/react-custom-event",
+  "author": "Invertase Limited",
+  "license": "ISC"
+}
